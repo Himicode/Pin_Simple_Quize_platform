@@ -1,0 +1,103 @@
+ [
+            {
+                "question": "What is the capital of France?",
+                "options": ["Paris", "London", "Berlin"],
+                "answer": "Paris"
+            },
+   
+    {
+        "question": "Which programming language is known for its readability and indentation-based syntax?",
+        "options": ["Python", "Java", "C++"],
+        "answer": "Python"
+    },
+    {
+        "question": "What does the len() function in Python return?",
+        "options": ["Length of a list", "Length of a string", "Length of a dictionary"],
+        "answer": "Length of a string"
+    },
+    {
+        "question": "What is the output of print(2 + 3 * 4) in Python?",
+        "options": ["14", "20", "11"],
+        "answer": "14"
+    },
+    {
+        "question": "Which data type is used to store an ordered collection of elements in Python?",
+        "options": ["List", "Tuple", "Set"],
+        "answer": "List"
+    },
+    {
+        "question": "What is the result of 3 // 2 in Python?",
+        "options": ["1.5", "1", "2"],
+        "answer": "1"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "def", "function"],
+        "answer": "def"
+    },
+    {
+        "question": "What is the purpose of the if statement in Python?",
+        "options": ["Looping", "Decision-making", "Exception handling"],
+        "answer": "Decision-making"
+    },
+    {
+        "question": "Which Python library is commonly used for data manipulation and analysis?",
+        "options": ["Pandas", "NumPy", "Matplotlib"],
+        "answer": "Pandas"
+    },
+    {
+        "question": "What does the import keyword do in Python?",
+        "options": ["Imports a module", "Defines a function", "Creates a class"],
+        "answer": "Imports a module"
+    },
+    {
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": ["^", "**", "//"],
+        "answer": "**"
+    },
+    {
+        "question": "What is the output of print(\"Hello\" + \" World\") in Python?",
+        "options": ["Hello World", "HelloWorld", "HelloWorld"],
+        "answer": "Hello World"
+    },
+    {
+        "question": "Which method is used to remove an element from a list in Python?",
+        "options": ["pop()", "remove()", "delete()"],
+        "answer": "remove()"
+    },
+    {
+        "question": "What is the purpose of a docstring in Python?",
+        "options": ["To document code", "To execute code", "To debug code"],
+        "answer": "To document code"
+    },
+    {
+        "question": "Which loop in Python executes a block of code a fixed number of times?",
+        "options": ["for loop", "while loop", "do-while loop"],
+        "answer": "for loop"
+    },
+    {
+        "question": "What is the output of bool(0) in Python?",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    {
+        "question": "Which Python data type is mutable (can be modified)?",
+        "options": ["List", "Tuple", "String"],
+        "answer": "List"
+    },
+    {
+        "question": "What does the range() function generate in Python?",
+        "options": ["A list", "A tuple", "An iterator"],
+        "answer": "An iterator"
+    },
+    {
+        "question": "Which operator is used for string concatenation in Python?",
+        "options": ["+", "*", "%"],
+        "answer": "+"
+    },
+    {
+        "question": "What is the purpose of the __init__ method in a Python class?",
+        "options": ["To create an instance", "To define class variables", "To override built-in methods"],
+        "answer": "To create an instance"
+    }
+]
